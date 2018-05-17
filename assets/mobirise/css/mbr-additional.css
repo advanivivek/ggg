@@ -2330,39 +2330,43 @@ body {
 .cid-qRGbC3Q0La .mbr-section-title {
   color: #ffffff;
 }
-.cid-qRGsKqSZ8N {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-qSlvrywq7b {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/wood-3211004-2000x1333.jpg");
 }
 @media (max-width: 767px) {
-  .cid-qRGsKqSZ8N .media-wrap {
-    margin-bottom: 1rem;
+  .cid-qSlvrywq7b .content {
     text-align: center;
   }
-}
-.cid-qRGsKqSZ8N .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-qRGsKqSZ8N .media-wrap img {
-  height: 6rem;
-}
-.cid-qRGsKqSZ8N .mbr-text {
-  color: #767676;
+  .cid-qSlvrywq7b .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
 @media (max-width: 767px) {
-  .cid-qRGsKqSZ8N .footer-lower .copyright {
+  .cid-qSlvrywq7b .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qSlvrywq7b .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qSlvrywq7b .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qSlvrywq7b .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qRGsKqSZ8N .footer-lower hr {
+.cid-qSlvrywq7b .footer-lower hr {
   margin: 1rem 0;
-  border-color: #000;
+  border-color: #fff;
   opacity: .05;
 }
-.cid-qRGsKqSZ8N .footer-lower .social-list {
+.cid-qSlvrywq7b .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2371,30 +2375,27 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRGsKqSZ8N .footer-lower .social-list .mbr-iconfont-social {
+.cid-qSlvrywq7b .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
-  color: #232323;
+  color: #fff;
 }
-.cid-qRGsKqSZ8N .footer-lower .social-list .soc-item {
+.cid-qSlvrywq7b .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRGsKqSZ8N .footer-lower .social-list a {
+.cid-qSlvrywq7b .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRGsKqSZ8N .footer-lower .social-list a:hover {
+.cid-qSlvrywq7b .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRGsKqSZ8N .footer-lower .social-list {
+  .cid-qSlvrywq7b .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qRGsKqSZ8N .copyright > p {
-  color: #efefef;
 }
 .cid-qRF82w1G7c .navbar {
   background: #ffffff;
@@ -5141,70 +5142,4 @@ body {
 .cid-qSkjfyOUYi .input-group-btn {
   display: block;
   text-align: center;
-}
-.cid-qSkjdZC6aZ {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/wood-3211004-2000x1333.jpg");
-}
-@media (max-width: 767px) {
-  .cid-qSkjdZC6aZ .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-qSkjdZC6aZ .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-qSkjdZC6aZ .media-wrap img {
-  height: 6rem;
-}
-.cid-qSkjdZC6aZ .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-qSkjdZC6aZ .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-qSkjdZC6aZ .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-qSkjdZC6aZ .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qSkjdZC6aZ .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
-}
-.cid-qSkjdZC6aZ .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qSkjdZC6aZ .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qSkjdZC6aZ .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qSkjdZC6aZ .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-qSkjdZC6aZ .copyright > p {
-  color: #efefef;
 }
